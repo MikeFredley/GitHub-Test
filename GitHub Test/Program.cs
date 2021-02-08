@@ -8,6 +8,7 @@ namespace GitHub_Test
 {
     static class Program
     {
+        //test part 2
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
